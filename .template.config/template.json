@@ -1,0 +1,13 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Jefferson Monteiro",
+  "classifications": [ "WebAPI", "Clean Architecture" ],
+  "identity": "Generic.Template",
+  "name": "Template de API generica",
+  "shortName": "template-api",
+  "sourceName": "TemplateAPI",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  }
+}
