@@ -120,4 +120,4 @@ Facilita a manutenção e escalabilidade do projeto.
 
 DependencyInjection.cs → Configuração central de DI.
 
-** Este template foi desenvolvido para facilitar o desenvolvimento de APIs de pagamento, garantindo organização e boas práticas. Qualquer dúvida, sinta-se à vontade para contribuir! 😊 **
+**Este template foi desenvolvido para facilitar o desenvolvimento de APIs de pagamento, garantindo organização e boas práticas. Qualquer dúvida, sinta-se à vontade para contribuir! 😊**
