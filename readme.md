@@ -38,7 +38,8 @@ Program.cs → Configuração inicial da API.
 
 appsettings.json → Configuração do ambiente e conexão com banco.
 
-📂 ApiTemplate.Application/ (Regras de Negócio)
+
+# 📂 ApiTemplate.Application/ (Regras de Negócio)
 
 Nesta camada ficam as regras de negócio da aplicação. Aqui também é feita a comunicação entre a API e a camada de domínio.
 
@@ -119,5 +120,4 @@ Facilita a manutenção e escalabilidade do projeto.
 
 DependencyInjection.cs → Configuração central de DI.
 
-** Este template foi desenvolvido para facilitar o desenvolvimento de APIs de pagamento, garantindo organização e boas práticas. 
-Qualquer dúvida, sinta-se à vontade para contribuir! 😊 **
+** Este template foi desenvolvido para facilitar o desenvolvimento de APIs de pagamento, garantindo organização e boas práticas. Qualquer dúvida, sinta-se à vontade para contribuir! 😊 **
